@@ -89,4 +89,5 @@ async function part2() {
     return total;
 }
 
+part1();
 part2();
