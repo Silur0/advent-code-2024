@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "ts-node src/day-5/program.ts",
+        "start": "ts-node src/day-6/program.ts",
         "build": "tsc",
         "serve": "node dist/index.js"
     },
